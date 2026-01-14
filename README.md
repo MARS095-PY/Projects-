@@ -13,7 +13,7 @@ Databases	SQL Server, MySQL, PostgreSQL (concepts)
 
 💼 Professional Experience
 
-Commercial Analyst | VMA S.A. | Aug 2025 - Present
+Commercial Analyst | VMA S.A. | Aug 2025 - Nov 2025
 
 Predictive Analysis & Business Intelligence
 
